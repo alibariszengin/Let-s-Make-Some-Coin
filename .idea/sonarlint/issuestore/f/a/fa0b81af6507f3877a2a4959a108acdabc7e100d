@@ -1,0 +1,27 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğÁº½
+
+java:S1192)"Define a constant instead of duplicating this literal "C:\\Users\\Pikachu\\IdeaProjects\\Oyuncu\\src\\Oyun\\hunter5.png" 3 times.(Ñ¬ä†ûÿÿÿÿ
+F
+java:S1068"+Remove this unused "kareler" private field.(Ñš’ÿÿÿÿÿ
+P	java:S125+"<This block of commented-out lines of code should be removed.(’ç’I
+d
+java:S3252G"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Êê‹úûÿÿÿÿ
+E
+java:S1068"*Remove this unused "labels" private field.(Áçúèşÿÿÿÿ
+K
+java:S1068"0Remove this unused "player1Hedef" private field.(˜„Øôúÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¨šÄÿÿÿÿÿ
+@
+java:S1068"*Remove this unused "azalan" private field.(­¢ŠÉ
+K
+java:S1068"0Remove this unused "player2Hedef" private field.(§‰âåúÿÿÿÿ
+F
+java:S1068"0Remove this unused "player3Hedef" private field.(€ø§¢
+h
+java:S1450"SRemove the "temp" field and declare it as a local variable in the relevant methods.(ÚÚ¬y
+h
+java:S3776u"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(›×Ä«
+_
+java:S3252C"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´
+V	java:S110"<This class has 6 parents which is greater than 5 authorized.(¨šÄÿÿÿÿÿ

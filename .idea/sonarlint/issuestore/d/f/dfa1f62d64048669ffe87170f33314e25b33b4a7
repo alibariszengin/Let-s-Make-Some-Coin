@@ -1,0 +1,10 @@
+
+N
+java:S1197~"8Move the array designator from the variable to the type.(êÇ™À
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğÁº½
+J
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ
+H
+java:S1128"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/
+C
+java:S11724"-Remove this unused method parameter "panels".(²ÜãŞ

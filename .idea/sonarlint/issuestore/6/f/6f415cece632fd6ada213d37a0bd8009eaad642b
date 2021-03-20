@@ -1,0 +1,17 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(î‚†„þÿÿÿÿ
+N
+java:S1197"8Move the array designator from the variable to the type.(Ž‚‘ª
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(¨ƒ—¢
+N
+java:S1197"8Move the array designator from the variable to the type.(Ž‚‘ª
+<
+java:S1172"&Remove these unused method parameters.(Ž‚‘ª
+c
+java:S2184G"HCast one of the operands of this multiplication operation to a "double".(¬”ôùÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(¥ÛÖ‡ýÿÿÿÿ
+N
+java:S1197"8Move the array designator from the variable to the type.(Ž‚‘ª
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ðÁº½
+^
+java:S2184M"HCast one of the operands of this multiplication operation to a "double".(Éö‘¶

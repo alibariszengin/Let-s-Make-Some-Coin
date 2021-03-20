@@ -1,0 +1,24 @@
+
+^
+java:S2184r"HCast one of the operands of this multiplication operation to a "double".(Éö‘¶
+<
+java:S1172"&Remove these unused method parameters.(Ž‚‘ª
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(¥ÛÖ‡ýÿÿÿÿ
+W
+java:S2184N"BCast one of the operands of this addition operation to a "double".(µøŒz
+N
+java:S1197"8Move the array designator from the variable to the type.(Ž‚‘ª
+X
+java:S2184J"BCast one of the operands of this addition operation to a "double".(œ¯… 
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(¨ƒ—¢
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ðÁº½
+N
+java:S1197"8Move the array designator from the variable to the type.(Ž‚‘ª
+N	java:S106w"9Replace this use of System.out or System.err by a logger.(¨ƒ—¢
+h
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(²ÚÎÑ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(î‚†„þÿÿÿÿ
+N
+java:S1197"8Move the array designator from the variable to the type.(Ž‚‘ª
+c
+java:S2184l"HCast one of the operands of this multiplication operation to a "double".(¬”ôùÿÿÿÿ

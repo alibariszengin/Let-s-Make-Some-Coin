@@ -1,0 +1,20 @@
+
+<
+java:S1172"&Remove these unused method parameters.(Ž‚‘ª
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤±Ö²øÿÿÿÿ
+N
+java:S1197"8Move the array designator from the variable to the type.(Ž‚‘ª
+N
+java:S1197"8Move the array designator from the variable to the type.(Ž‚‘ª
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(¨ƒ—¢
+V	java:S125B"<This block of commented-out lines of code should be removed.(ƒÍ¥Úûÿÿÿÿ
+W
+java:S2184O"BCast one of the operands of this addition operation to a "double".(’ÿâv
+N
+java:S1197"8Move the array designator from the variable to the type.(Ž‚‘ª
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ðÁº½
+X
+java:S2184K"BCast one of the operands of this addition operation to a "double".(‘üÃÜ
+?
+java:S1128")Remove this unused import 'java.io.File'.(†Ð¥Å
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(¥ÛÖ‡ýÿÿÿÿ
